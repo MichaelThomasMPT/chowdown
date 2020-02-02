@@ -3,7 +3,7 @@
 layout: recipe
 title:  "Oven Baked Salmon"
 image: oven-baked-salmon.jpg
-imagecredit: https://www.dinneratthezoo.com/wp-content/uploads/2019/05/baked-salmon-4.jpg
+imagecredit: https://www.gimmesomeoven.com/wp-content/uploads/2018/09/How-To-Baked-Salmon-Recipe-9-1.jpg
 tags: quick
 
 ingredients:

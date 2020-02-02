@@ -2,8 +2,8 @@
 
 layout: recipe
 title:  "Caesar Salad Dressing"
-image: roast-potatoes.jpeg
-imagecredit: https://img.taste.com.au/Y8wd8tCT/taste/2016/11/the-best-roast-potatoes-104987-1.jpeg
+image: caesar-salad.jpg
+imagecredit: https://www.africanbites.com/wp-content/uploads/2019/07/IMG_2430-2.jpg
 tags: sauce
 
 ingredients:
@@ -23,7 +23,7 @@ directions:
 
 ---
 
-Delicious! Also great to swap the oil for duck fat. 
+From [One Upon a Chef](https://www.onceuponachef.com/recipes/caesar-salad-dressing.html#tabrecipe)
 
 **Prep:** 10 mins 
 **Serves:** 10 

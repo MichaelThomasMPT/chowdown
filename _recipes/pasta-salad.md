@@ -2,8 +2,8 @@
 
 layout: recipe
 title:  "Pasta Salad"
-image: pasta-salad.jpg
-imagecredit: https://www.inspiredtaste.net/wp-content/uploads/2018/12/Easy-Pasta-Salad-Recipe-2-1200.jpg
+image: pasta-salad.jpeg
+imagecredit: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/5/24/VB908_Antipasto-Salad_s4x3.jpg.rend.hgtvcom.826.620.suffix/1558720501220.jpeg
 tags: side, vegetarian
 
 ingredients:
