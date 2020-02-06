@@ -4,7 +4,7 @@ layout: recipe
 title:  "Vegetable and Chickpea Curry"
 image: vegetable-and-chickpea-curry.jpeg
 imagecredit: https://img.taste.com.au/l9Xek58z/w643-h428-cfill-q90/taste/2016/11/creamy-chickpea-and-vegetable-curry-104611-1.jpeg
-tags: long, slow cooker, vegetarian
+tags: long, slow-cooker, vegetarian
 
 ingredients:
 - 1 tablespoon vegetable oil

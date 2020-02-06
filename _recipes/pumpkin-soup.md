@@ -4,7 +4,7 @@ layout: recipe
 title:  "Pumpkin Soup"
 image: pumpkin-soup.jpeg
 imagecredit: https://img.taste.com.au/qQ0B5v8X/w643-h428-cfill-q90/taste/2016/11/pumpkin-soup-with-a-twist-71237-1.jpeg
-tags: long, slow cooker, vegetarian
+tags: long, slow-cooker, vegetarian
 
 ingredients:
 - 3/4 medium sized butternut pumpkin, skin and seeds removed, chopped

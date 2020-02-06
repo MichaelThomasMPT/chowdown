@@ -4,7 +4,7 @@ layout: recipe
 title:  "Beef & Gravy Rolls"
 image: beef-and-gravy-rolls.jpg
 imagecredit: https://images.squarespace-cdn.com/content/5937745f1b10e34a80c14da1/1538292767074-XE1GXN8FCM8WPUFWBUBJ/download+%283%29.jpg?content-type=image%2Fjpeg
-tags: long, slow cooker
+tags: long, slow-cooker
 
 ingredients:
 - 1 1/2 - 2kg beef roast, chuck, topside or blade.

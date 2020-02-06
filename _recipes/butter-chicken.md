@@ -4,7 +4,7 @@ layout: recipe
 title:  "Butter Chicken"
 image: butter-chicken.jpg
 imagecredit: https://cafedelites.com/wp-content/uploads/2019/01/Butter-Chicken-IMAGE-64.jpg
-tags: long, slow cooker
+tags: long, slow-cooker
 
 ingredients:
 - 40g butter

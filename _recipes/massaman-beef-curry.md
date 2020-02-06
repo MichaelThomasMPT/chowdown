@@ -4,7 +4,7 @@ layout: recipe
 title:  "Massaman Beef Curry"
 image: massaman-beef-curry.jpeg
 imagecredit: https://img.taste.com.au/bMFp6XNe/w643-h428-cfill-q90/taste/2016/11/slow-cooker-massaman-beef-curry-85846-1.jpeg
-tags: long, slow cooker
+tags: long, slow-cooker
 
 ingredients:
 - 1 tablespoon peanut oil

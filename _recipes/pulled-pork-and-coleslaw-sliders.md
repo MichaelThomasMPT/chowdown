@@ -4,7 +4,7 @@ layout: recipe
 title:  "Pulled Pork & Coleslaw Sliders"
 image: pulled-pork-and-coleslaw-sliders.jpg
 imagecredit: https://d1q7fw5qeu4nx.cloudfront.net/wp-content/uploads/sites/2/2017/05/22163747/pulled-pork-sliders-with-crunchy-slaw-1200-x1200-640x640.jpg
-tags: long, slow cooker
+tags: long, slow-cooker
 
 ingredients:
 - 2kg pork shoulder, cut into 2 or 3 pieces
