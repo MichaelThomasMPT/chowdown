@@ -1,5 +1,4 @@
 version: "3"
-
 services:
   chowdown:
     image: jekyll/jekyll
@@ -7,10 +6,10 @@ services:
     container_name: chowdown
     command: jekyll serve --force_polling
     ports:
-      - "80:4000"
+      - "4000:4000"
     volumes:
       - .:/srv/jekyll
-      - /opt/docker/chowdown/data/components:/srv/jekyll/_components
-      - /opt/docker/chowdown/data/images:/srv/jekyll/_images
-      - /opt/docker/chowdown/data/posts:/srv/jekyll/_posts
-      - /opt/docker/chowdown/data/recipes:/srv/jekyll/_recipes
+      - /home/micker/DockerData/chowdown/config/_components:/srv/jekyll/_components
+      - /home/micker/DockerData/chowdown/config/_images:/srv/jekyll/_images
+      - /home/micker/DockerData/chowdown/config/_posts:/srv/jekyll/_posts
+      - /home/micker/DockerData/chowdown/config/_recipes:/srv/jekyll/_recipes
