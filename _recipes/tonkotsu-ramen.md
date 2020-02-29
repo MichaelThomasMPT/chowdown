@@ -4,7 +4,7 @@ layout: recipe
 title:  "Tonkotsu Ramen"
 image: tonkotsu-ramen.jpg
 imagecredit: https://cdn.shopify.com/s/files/1/0111/1729/7722/articles/shutterstock_697241275_tonkotsu_ramen-landscape_900x.jpg?v=1562316760
-tags: long
+tags: long, pressure-cooker
 
 ingredients:
 - Nori (seaweed sheets, optional garnish)
