@@ -38,7 +38,11 @@ components:
 
 ---
 
-This recipe is a combination of several other recipes (see individual components). The assemply instructions are by [Sho Spaeth](https://www.seriouseats.com/recipes/2018/12/chintan-shoyu-ramen-recipe.html).
+This recipe is a combination of several other recipes (see individual components):
+
+- The assemply instructions are by [Sho Spaeth](https://www.seriouseats.com/recipes/2018/12/chintan-shoyu-ramen-recipe.html)
+- The ajitsuke tamago is by [Nami](https://www.justonecookbook.com/ramen-egg/#wprm-recipe-container-58361) from *[Just One Cookbook](https://www.justonecookbook.com/)*
+- The [other components](https://www.reddit.com/r/ramen/comments/7arli8/fresh_dont_feel_like_spending_18_hours_making/), including the [chashu](https://thetakeout.com/recipe-how-to-make-ramen-chashu-ramen-lord-1831216636), are by Mike Satinover, also known as [Ramen Lord](https://www.reddit.com/user/Ramen_Lord/)
 
 The broth, tare, and aroma oil will keep in a sealed container in the refrigerator for up to 1 week. Frozen, they will keep for up to 3 months, although the tare's flavor will degrade slightly (the broth and aroma oil will hold up better). The pork belly, if wrapped well in plastic wrap, will keep for 1 week in the refrigerator; tightly wrapped and placed in a freezer bag, it will keep for up to 3 months in the freezer with little to no decline in quality.
 
