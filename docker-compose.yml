@@ -8,7 +8,7 @@ services:
     ports:
       - "4000:4000"
     volumes:
-      - .:/srv/jekyll
+      - /home/micker/DockerData/chowdown/config/:/srv/jekyll
       - /home/micker/DockerData/chowdown/config/_components:/srv/jekyll/_components
       - /home/micker/DockerData/chowdown/config/_images:/srv/jekyll/_images
       - /home/micker/DockerData/chowdown/config/_posts:/srv/jekyll/_posts
