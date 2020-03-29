@@ -5,7 +5,7 @@ title:  "Vietnamese Dressing"
 image: vietnamese-dressing.jpg
 
 ingredients:
-- 4 tbsp lemon juice
+- Juice from one small-ish lemon *(updated, originally 4 tbsp)*
 - 4 tsp fish sauce
 - 3 tsp sugar
 - 1 clove garlic, crushed
