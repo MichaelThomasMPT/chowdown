@@ -9,17 +9,17 @@ tags: long
 ingredients:
 - 3/4 tablespoon tamarind paste (dissolved in 1/4 cup warm water; look for tamarind at Asian/Chinese or Indian food stores)
 - 3 tablespoon fish sauce
-- 1/4 cup chicken stock
+- 1/4 cup chicken stock (for sauce)
 - 1 to 3 teaspoons chili sauce (or 1/2 teaspoon or more dried crushed chili or cayenne, to taste)
 - 3 tablespoons brown sugar
 - 8 ounces rice noodles (or enough for 2 people, linguini-width)
-- 1 to 1 1/2 cups chicken breast (or thigh, chopped)
+- 2-3 chicken breasts (or equivalent of thigh, chopped)
 - 1 teaspoon cornstarch
 - 3 tablespoons soy sauce
 - 1 to 2 tablespoons olive oil (more or less as needed for stir-frying)
 - 4 cloves garlic (minced)
 - 1 to 2 fresh red chilies, minced (optional)
-- 1/4 cup chicken stock
+- 1/4 cup chicken stock (for wok)
 - 3 cups bean sprouts
 - 1/2 cup cilantro (fresh; chopped)
 - 3 green onions (sliced)
@@ -28,7 +28,7 @@ ingredients:
 
 directions:
 - Gather the ingredients.
-- Make the sauce by combining sauce ingredients together in a cup. Stir well to dissolve tamarind and brown sugar. Taste-test for a tangy balance between sweet and sour. Add more sugar if too sour, or more tamarind if too sweet.
+- Make the sauce by combining tamarind paste, fih sauce, chicken stock (1/4 cup only), chili sauce and brown sugar together in a cup. Stir well to dissolve tamarind and brown sugar. Taste-test for a tangy balance between sweet and sour. Add more sugar if too sour, or more tamarind if too sweet.
 - Bring a large pot of water to boil and dunk in rice noodles. Stir to separate. Only cook until they are soft enough to be eaten, but just barely - still firm and a little "crunchy" (they will finish cooking later in the pan). 
 - Drain the noodles and rinse well with cold water to prevent sticking. Set aside.
 - Place chicken slices in a small bowl. Stir together the cornstarch and soy sauce and pour over chicken. Stir well and set aside.
