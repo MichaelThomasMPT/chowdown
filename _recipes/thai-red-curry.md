@@ -31,8 +31,8 @@ directions:
 
 ---
 
-From [taste.com.au](https://www.taste.com.au/recipes/beef-stroganoff-3/39b59cd7-c3e6-4ddb-a1fc-5b67746d3b60)
+From [bbcgoodfood.com](https://www.bbcgoodfood.com/recipes/thai-red-curry)
 
-**Prep:** 10 mins  
-**Cook:** 25 mins  
-**Serves:** ?
+**Prep:** 15 mins  
+**Cook:** 20 mins  
+**Serves:** 4
