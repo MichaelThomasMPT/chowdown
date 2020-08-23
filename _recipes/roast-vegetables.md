@@ -8,7 +8,9 @@ tags: side, vegetarian
 
 directions:
 - Potato = 10 min boil, then 40 min oven, then turn, then 30 min more oven
+- Sweet Potato = 60 min
 - Pumpkin = 40 min
+- Parsnip = 40 min
 - Capsicum = 35 min
 - Carrot = 35 min
 - Zucchini = 30 min
