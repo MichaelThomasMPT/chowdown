@@ -7,7 +7,7 @@ imagecredit: https://www.sbs.com.au/food/sites/sbs.com.au.food/files/styles/full
 tags: long
 
 ingredients:
-- (1 lb 2 oz) boned chicken thighs, cut into 5 cm (2 inch) strips
+- 500g boned chicken thighs, cut into 5 cm (2 inch) strips
 - 2 eggs, beaten
 - 300 g (10½ oz/2 cups) plain (all-purpose) flour mixed with 1 tsp salt
 - oil, for deep-frying
