@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Charley's Bruschetta"
+title:  "Ella's Bruschetta"
 image: bruschetta.jpg
 imagecredit: https://www.cookingclassy.com/wp-content/uploads/2019/07/bruschetta-2.jpg
 tags: quick, vegetarian
